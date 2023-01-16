@@ -1,4 +1,4 @@
-//quote functions
+//quote functions test tito
 function selectorHideParent (item){
 	if (item.parents('[role=listitem]').length>0){
    item.parents('[role=listitem]')[0].style.display="none";
