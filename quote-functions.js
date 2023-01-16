@@ -1,4 +1,4 @@
-//quote functions
+//quote functions v3
 function selectorHideParent (item){
 	if (item.parents('[role=listitem]').length>0){
    item.parents('[role=listitem]')[0].style.display="none";
